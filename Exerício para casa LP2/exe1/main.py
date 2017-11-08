@@ -20,7 +20,7 @@ heron = math.sqrt(heron)
 
 print(heron)
 
-LadoMaior = triangulo1.pega_maior()
+LadoMaior = triangulo1.getMaior()
 
 print(LadoMaior)
 
