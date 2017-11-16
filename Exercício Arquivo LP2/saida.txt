@@ -1,8 +1,0 @@
-arara: 13
-burro: 8
-cachorro: 6
-elefante: 7
-gato: 9
-porco: 12
-rato: 9
-saopaulino: 12

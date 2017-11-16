@@ -22,7 +22,7 @@ with open('tweets.txt') as arquivo: # Quando o bloco terminar a execução, o wi
             if palavra in dic.keys():
                 dic[palavra] = dic[palavra] + 1
             else:
-                dic[palavra] = 1     
+                dic[palavra] = 1
 
 #Abre escrita
 with open('saida.txt', 'w') as arquivo:
